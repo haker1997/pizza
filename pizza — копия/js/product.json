@@ -1,0 +1,35 @@
+[
+    { 
+        "id": 1,
+        " title": "Pizza Fresca",
+        "weight":570,
+        "price":115,
+        "imgSrc": "Pizza Fresca.png"
+
+    },
+    { 
+        "id": 2,
+        " title": "Pizza Gusto",
+        "weight":630,
+        "price":130,
+        "imgSrc": "Pizza Gusto.png"
+
+    },
+    { 
+        "id": 3,
+        " title": "Pizza Mexicana",
+        "weight":540,
+        "price":125,
+        "imgSrc": "Pizza Mexicana.jpg"
+
+    },
+    { 
+        "id": 4,
+        " title": "Pizza Suprema",
+        "weight":620,
+        "price":125,
+        "imgSrc": "Pizza Suprema.jpg"
+
+    }
+   
+]
